@@ -8,3 +8,6 @@
 >作者：liuzhijun  
 >微信： lzjun567  
 >公众号：Python之禅（id：VTtalk）
+
+原文：
+https://www.cnblogs.com/zhijun/p/python-crawler.html
